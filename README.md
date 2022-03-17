@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal8236" alt="vishal8236" /></a> </p>
 
-- 🔭 I’m currently working on **ShortNews Web Application(with Servlet, JSP), Compitative Programming**
+- 🔭 I’m currently working on **ShortNews Web Application(with Servlet, JSP), Competitive Programming **
 
 - 🎯 I’m currently learning **ExpressJs, Node, AWS**
 
