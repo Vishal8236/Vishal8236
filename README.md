@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Patidar</h1>
 <h3 align="center">📌 I am always keep ready to learn to new thing that improve 🚀 my skill level.</h3>
 
-<a align="center" href="https://app.daily.dev/vishalpatidar"><img src="https://api.daily.dev/devcards/9b238a7a9c3b4fbc95378d8708ee9085.png?r=lje" width="400" alt="Vishal Patidar's Dev Card"/></a>
+<a align="center" href="https://app.daily.dev/vishalpatidar"><img src="https://github.com/Vishal8236/Vishal8236/blob/master/devcard.svg" width="400" alt="Vishal Patidar's Dev Card"/></a>
 - 🔭 I’m currently working on **ShortNews Web Application(with Servlet, JSP), Competitive Programming **
 
 - 🎯 I’m currently learning **ExpressJs, Node, AWS**
