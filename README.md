@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Patidar</h1>
 <h3 align="center">📌 I am always keep ready to learn to new thing that improve 🚀 my skill level.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishal8236&label=Profile%20views&color=0e75b6&style=flat" alt="vishal8236" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishal8236" alt="vishal8236" /></a> </p>
-
+<a align="center" href="https://app.daily.dev/vishalpatidar"><img src="https://api.daily.dev/devcards/9b238a7a9c3b4fbc95378d8708ee9085.png?r=lje" width="400" alt="Vishal Patidar's Dev Card"/></a>
 - 🔭 I’m currently working on **ShortNews Web Application(with Servlet, JSP), Competitive Programming **
 
 - 🎯 I’m currently learning **ExpressJs, Node, AWS**
@@ -14,7 +11,6 @@
 - 💬 Ask me about **React, Ruby on Rails, JavaScript**
 
 - 📫 How to reach me **vishalpatidar963027@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/vishal8236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vishal8236" height="30" width="40" /></a>
